@@ -12,6 +12,8 @@ public class FileReadEx {
             //String str = null;
             //System.out.println(str.toString());
         } /*catch (IOException e) {
+
+       //
             System.out.println(e.getMessage());
         }*/ /*catch (Exception e) {
             System.out.println(e.getMessage());
